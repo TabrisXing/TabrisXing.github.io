@@ -25,9 +25,11 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
-以下是一些个人信息
+If you want to play game with me, you can add me on steam
 
 [Tabris@Steam](http://steamcommunity.com/id/TabrisXing/)
+
+If you want to learn how to program together with me, you can check my github
 
 [Tabris@Github](https://github.com/TabrisXing/)
 
@@ -36,9 +38,11 @@
 </div>
 <div class="entry" id="main">
 <!-- content -->
-<p>以下是一些个人信息</p>
+<p>If you want to play game with me, you can add me on steam</p>
 
 <p><a href="http://steamcommunity.com/id/TabrisXing/">Tabris@Steam</a></p>
+
+<p>If you want to learn how to program together with me, you can check my github</p>
 
 <p><a href="https://github.com/TabrisXing/">Tabris@Github</a></p>
 <!-- content end -->
